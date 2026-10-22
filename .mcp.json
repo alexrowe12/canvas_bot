@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "canvas": {
+      "type": "stdio",
+      "command": "/Users/alexrowe/Desktop/canvas_bot/.venv/bin/canvas-mcp-server",
+      "args": [],
+      "env": {}
+    }
+  }
+}
